@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="description">The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became an international bestseller translated into some 70 languages as of 2016.</string>
+    <string name="no_connection">No Internet Connection</string>
+</resources>
